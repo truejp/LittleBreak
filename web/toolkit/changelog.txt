@@ -1,0 +1,17 @@
+Thanks for using my Software!
+This Software was initially designed and written by Philipp Lehnet in 2021 to showcase the power of PowerShell!
+Use at your own risk.
+
+v0.4
+1) Feature: Keyboard has been added to sensitive areas
+2) Feature: Slightly changed appearance
+3) Bug-Fix: Issue within Activity Sim has been fixed
+
+v0.3
+1) Bug-Fix: In some cases, config has not been updated
+
+v0.2
+1) Bug-Fix: Web Update should perform way better
+2) Bug-Fix: No Random Crashes after closing certain dialogs
+3) Bug-Fix: Labels are now updated regularly
+4) Feature: UI has been improved
